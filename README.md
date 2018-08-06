@@ -1,1 +1,1 @@
-SlimTutorial
+Slim Tutorial
